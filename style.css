@@ -1,0 +1,50 @@
+body {
+color : black;
+font-family: Lato;
+background-image: url(bg-header.jpeg);
+}
+
+.navbar-brand {
+color: #fff;
+position: static;
+	}
+
+.navbar {
+
+background:purple;
+
+}
+#header{
+background-image: url('assets/img/bg-header.jpeg');
+display:block;
+
+}
+
+.nav-link {
+
+color: #fff;
+
+cursor: pointer;
+
+}
+
+.nav-link {
+
+margin-right: 1em !important;
+
+}
+
+.header{
+background-image: url('bg-header.jpeg');
+}
+
+.nav-link:hover {
+color: orange;
+
+}
+
+.navbar-collapse {
+justify-content: flex-end;
+
+}
+
