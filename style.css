@@ -1,7 +1,7 @@
 body {
 color : black;
-font-family: Lato;
-background-image: url(bg-header.jpeg);
+font-family: Lato;/*
+background-image: url(bg-header.jpeg);*/
 }
 
 .navbar-brand {
@@ -15,7 +15,7 @@ background:purple;
 
 }
 #header{
-background-image: url('assets/img/bg-header.jpeg');
+background-image: url('assets/img/bg-header.png');
 display:block;
 
 }
